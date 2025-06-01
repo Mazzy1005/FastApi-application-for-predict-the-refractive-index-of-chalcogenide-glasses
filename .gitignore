@@ -1,0 +1,9 @@
+/.pt_tmp
+/model_with_PCA
+/result_without_empty.txt
+/test.csv
+/test.py
+/test.txt
+/test_model
+/venv
+/__pycache__
